@@ -1,0 +1,4 @@
+downloads-untrusted/
+*.exe
+*.log
+.DS_Store
